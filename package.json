@@ -27,11 +27,11 @@
     "through2": "^2.0.0"
   },
   "devDependencies": {
-    "mocha": "*",
     "coveralls": "*",
-    "mocha-lcov-reporter": "*",
-    "istanbul": "*",
     "event-stream": "*",
-    "should": "~2.1.0"
+    "istanbul": "*",
+    "mocha": "*",
+    "mocha-lcov-reporter": "*",
+    "should": "^7.0.4"
   }
 }
