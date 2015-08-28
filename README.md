@@ -40,11 +40,11 @@ The output filename
 [npm-url]: https://npmjs.org/package/gulp-jsonmerge
 [npm-image]: https://badge.fury.io/js/gulp-jsonmerge.png
 
-[travis-url]: http://travis-ci.org/reflog/gulp-jsonmerge
-[travis-image]: https://secure.travis-ci.org/reflog/gulp-jsonmerge.png?branch=master
+[travis-url]: http://travis-ci.org/eyolas/gulp-jsonmerge
+[travis-image]: https://secure.travis-ci.org/eyolas/gulp-jsonmerge.png?branch=master
 
-[coveralls-url]: https://coveralls.io/r/reflog/gulp-jsonmerge
-[coveralls-image]: https://coveralls.io/repos/reflog/gulp-jsonmerge/badge.png
+[coveralls-url]: https://coveralls.io/r/eyolas/gulp-jsonmerge
+[coveralls-image]: https://coveralls.io/repos/eyolas/gulp-jsonmerge/badge.png
 
-[depstat-url]: https://david-dm.org/reflog/gulp-jsonmerge
-[depstat-image]: https://david-dm.org/reflog/gulp-jsonmerge.png
+[depstat-url]: https://david-dm.org/eyolas/gulp-jsonmerge
+[depstat-image]: https://david-dm.org/eyolas/gulp-jsonmerge.png
