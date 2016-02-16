@@ -23,7 +23,7 @@
   "homepage": "https://github.com/eyolas/gulp-jsonmerge#readme",
   "dependencies": {
     "gulp-util": "^3.0.6",
-    "lodash": "^3.10.1",
+    "lodash": "^4.4.0",
     "through2": "^2.0.0"
   },
   "devDependencies": {
@@ -32,6 +32,6 @@
     "istanbul": "*",
     "mocha": "*",
     "mocha-lcov-reporter": "*",
-    "should": "^7.0.4"
+    "should": "^8.2.2"
   }
 }

@@ -1,4 +1,4 @@
-var merge = require('lodash/object/merge');
+var merge = require('lodash/merge');
 
 module.exports = JSONFile;
 
